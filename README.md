@@ -121,6 +121,6 @@ The reusable functions in `scripts/EDA_functions.py` can be imported and used in
 
 Feel free to open issues or submit pull requests for improvements or additional analyses. Collaboration and knowledge sharing are encouraged!
 
----
+
 
 *This README was generated to support the Week 1 task of the Insurance Risk Analytics project, focusing on Git/GitHub setup, CI/CD, and foundational exploratory data analysis.*
