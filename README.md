@@ -1,4 +1,4 @@
-# 📊 Insurance Risk & Profitability Analysis
+# 📊 Data  Analysis Project
 
 This repository contains a modular and version-controlled data analysis workflow focused on analyzing claim risks and premium profitability patterns for an insurance portfolio. It includes Jupyter notebooks for exploratory data analysis (EDA), reusable Python scripts, and unit testing setup to ensure reproducibility and maintainability.
 
