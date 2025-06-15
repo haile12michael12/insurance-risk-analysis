@@ -123,4 +123,4 @@ Feel free to open issues or submit pull requests for improvements or additional 
 
 
 
-*This README was generated to support the Week 1 task of the Insurance Risk Analytics project, focusing on Git/GitHub setup, CI/CD, and foundational exploratory data analysis.*
+*This README used to support the Week 1 task of the Insurance Risk Analytics project, focusing on Git/GitHub setup, CI/CD, and foundational exploratory data analysis.*
